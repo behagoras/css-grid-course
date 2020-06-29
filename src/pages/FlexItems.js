@@ -66,7 +66,6 @@ const Hamburger = styled.div`
   display: none;
   /* width:50px;
   height:50px; */
-  border: 1px solid blue;
   @media screen and (max-width:800px){
     display: block
   }

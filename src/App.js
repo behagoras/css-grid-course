@@ -18,13 +18,13 @@ export default function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/">Home</Link>
+              <Link to="/">Law of thirds</Link>
             </li>
             <li>
-              <Link to="/about">About</Link>
+              <Link to="/about">Auto-fit</Link>
             </li>
             <li>
-              <Link to="/users">Users</Link>
+              <Link to="/users">Regular Interface</Link>
             </li>
             <li>
               <Link to="/list">Grid List</Link>
